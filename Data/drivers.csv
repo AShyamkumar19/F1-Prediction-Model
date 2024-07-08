@@ -1,0 +1,21 @@
+﻿session_key,meeting_key,broadcast_name,country_code,first_name,full_name,last_name,driver_number,team_name,name_acronym
+9550,1239,M VERSTAPPEN,NED,Max,Max VERSTAPPEN,Verstappen,1,Red Bull Racing,VER
+9550,1239,L SARGEANT,USA,Logan,Logan SARGEANT,Sargeant,2,Williams,SAR
+9550,1239,D RICCIARDO,AUS,Daniel,Daniel RICCIARDO,Ricciardo,3,RB,RIC
+9550,1239,L NORRIS,GBR,Lando,Lando NORRIS,Norris,4,McLaren,NOR
+9550,1239,P GASLY,FRA,Pierre,Pierre GASLY,Gasly,10,Alpine,GAS
+9550,1239,S PEREZ,MEX,Sergio,Sergio PEREZ,Perez,11,Red Bull Racing,PER
+9550,1239,F ALONSO,ESP,Fernando,Fernando ALONSO,Alonso,14,Aston Martin,ALO
+9550,1239,C LECLERC,MON,Charles,Charles LECLERC,Leclerc,16,Ferrari,LEC
+9550,1239,L STROLL,CAN,Lance,Lance STROLL,Stroll,18,Aston Martin,STR
+9550,1239,K MAGNUSSEN,DEN,Kevin,Kevin MAGNUSSEN,Magnussen,20,Haas F1 Team,MAG
+9550,1239,Y TSUNODA,JPN,Yuki,Yuki TSUNODA,Tsunoda,22,RB,TSU
+9550,1239,A ALBON,THA,Alexander,Alexander ALBON,Albon,23,Williams,ALB
+9550,1239,G ZHOU,CHN,Guanyu,ZHOU Guanyu,Zhou,24,Kick Sauber,ZHO
+9550,1239,N HULKENBERG,GER,Nico,Nico HULKENBERG,Hulkenberg,27,Haas F1 Team,HUL
+9550,1239,E OCON,FRA,Esteban,Esteban OCON,Ocon,31,Alpine,OCO
+9550,1239,L HAMILTON,GBR,Lewis,Lewis HAMILTON,Hamilton,44,Mercedes,HAM
+9550,1239,C SAINZ,ESP,Carlos,Carlos SAINZ,Sainz,55,Ferrari,SAI
+9550,1239,G RUSSELL,GBR,George,George RUSSELL,Russell,63,Mercedes,RUS
+9550,1239,V BOTTAS,FIN,Valtteri,Valtteri BOTTAS,Bottas,77,Kick Sauber,BOT
+9550,1239,O PIASTRI,AUS,Oscar,Oscar PIASTRI,Piastri,81,McLaren,PIA

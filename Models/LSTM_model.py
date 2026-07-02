@@ -32,3 +32,5 @@ def create_datasets(data, timestep):
         X.append(data[i:(i + timestep), 0])
         y.append(data[i + timestep, 0])
     return np.array(X), np.array(y)
+
+# test
